@@ -1,0 +1,6 @@
+lokasi karnel berada di /boot
+
+file yang ada di dalam /boot merupakan file yang berfungsi untuk konfigurasi dan proses booting seperti karnel linux, dan grub
+
+versi karnel yang saya gunakan adalah vmlinuz-4.19.0-kali3-amd64
+

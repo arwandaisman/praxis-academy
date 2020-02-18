@@ -1,0 +1,272 @@
+Guru99
+
+
+root@arwanda:~/Documents/Musik# ls
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ new
+ test
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# ls -R
+.:
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ new
+ test
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+
+./Mp3:
+'Afgan - Kunci Hati.mp3'
+'Afgan & Raisa - Percayalah.mp3'
+'ALL STARS - Kemesraan.mp3'
+'Alm. Mike Mohede - Sampai Kapan.mp3'
+'ANJI - DIA.mp3'
+'Catatan Kecil - Adera.mp3'
+'Dygta featuring Giselle - Cinta Rahasia.mp3'
+'FABIAN WINANDI - Sturara.mp3'
+'GEISHA & Iwan Fals - Tak Seimbang.mp3'
+'GEISHA - Sementara Sendiri (OST. SINGLE).mp3'
+'Humood AlKhudher - Jadi Diri Sendiri (Kun Anta versi Indonesia).mp3'
+'HyunA(현아) - '\''어때 (How'\''s this).mp3'
+'Isyana Sarasvati - Kau Adalah.mp3'
+'Isyana Sarasvati - Mimpi.mp3'
+'JADO ft. Yuka Tamada - Fantasi Yang Berbeda.mp3'
+'Kumpulan mp3 Indonesia 2016.rar'
+'Maudy Ayunda - Untuk Apa.mp3'
+'NOAH - Menunggumu.mp3'
+'Raffi Ahmad & Nagita Slavina - Kamulah Takdirku.mp3'
+'Raisa - Kali Kedua.mp3'
+'Repvblik - Aku Tetap Cinta.mp3'
+'Rizky - Kesempurnaan Cinta.mp3'
+'Rossa - Jangan Hilangkan Dia.mp3'
+'Sheryl Sheinafia Feat. Ariel NOAH - Kutunggu Kau Putus.mp3'
+'Six Sounds Project (SSP) -  Mungkin Cinta Datang Terlambat.mp3'
+'Soundwave - SALAH.mp3'
+'Suliyana ft Rozy Abdillah - Asmorondono.mp3'
+'UNGU - Aku Tahu.mp3'
+root@arwanda:~/Documents/Musik# ls -al
+total 77620
+drwxrwxrwx 3 root root   20480 Feb 18 04:44  .
+drwxr-xr-x 4 root root    4096 Feb 18 04:38  ..
+-rwxrwxrwx 1 root root 7646361 Feb 21  2017 'Avenged Sevenfold - 04.00 AM.mp3'
+-rwxrwxrwx 1 root root 6616865 Feb 21  2017 'Avenged Sevenfold - Afterlife.mp3'
+-rwxrwxrwx 1 root root 7697295 Feb 21  2017 'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+-rwxrwxrwx 1 root root 4180865 Feb 21  2017 'Avenged Sevenfold - Carry On.mp3'
+-rwxrwxrwx 1 root root 6318448 Feb 21  2017 'Avenged Sevenfold - Dear God.mp3'
+-rwxrwxrwx 1 root root 5066195 Feb 21  2017 'Avenged Sevenfold - Fiction.mp3'
+-rwxrwxrwx 1 root root 5364645 Feb 21  2017 'Avenged Sevenfold - Seize The Day.mp3'
+-rwxrwxrwx 1 root root 5291977 Feb 21  2017 'Avenged Sevenfold - So Far Away.mp3'
+-rwxrwxrwx 1 root root 8648696 Feb 21  2017 'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+-rwxrwxrwx 1 root root 6288034 Feb 21  2017 'Avenged Sevenfold - Warmness On The Soul.mp3'
+-rwxrwxrwx 1 root root 2978795 Apr  1  2018 'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+drwxrwxrwx 2 root root    4096 Sep 28  2018  Mp3
+-rw-r--r-- 1 root root       0 Feb 18 04:45  new
+-rw-r--r-- 1 root root      14 Feb 18 04:42  test
+-rwxrwxrwx 1 root root 3470037 Feb 20  2018 'Young Lex - Titik Dua Bintang.mp3'
+-rwxrwxrwx 1 root root 3217267 Apr  1  2018  Zian_-_Untuk_Indonesiaku_Satu.mp3
+-rwxrwxrwx 1 root root 6639616 Feb 20  2018 'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# ls -a
+ .
+ ..
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ new
+ test
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# cat > arwanda
+Arwanda Isman
+root@arwanda:~/Documents/Musik# cat arwanda
+Arwanda Isman
+root@arwanda:~/Documents/Musik# ls
+ arwanda
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ new
+ test
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# rm test
+root@arwanda:~/Documents/Musik# ls
+ arwanda
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ new
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# mv new aaaaaaaaaa
+root@arwanda:~/Documents/Musik# ls
+ aaaaaaaaaa
+ arwanda
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# mkdir penting
+root@arwanda:~/Documents/Musik# ls
+ aaaaaaaaaa
+ arwanda
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+ penting
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# rmdir penting
+root@arwanda:~/Documents/Musik# ls
+ aaaaaaaaaa
+ arwanda
+'Avenged Sevenfold - 04.00 AM.mp3'
+'Avenged Sevenfold - Afterlife.mp3'
+'Avenged Sevenfold - A Little Peace Of Heaven.mp3'
+'Avenged Sevenfold - Carry On.mp3'
+'Avenged Sevenfold - Dear God.mp3'
+'Avenged Sevenfold - Fiction.mp3'
+'Avenged Sevenfold - Seize The Day.mp3'
+'Avenged Sevenfold - So Far Away.mp3'
+'Avenged Sevenfold - Unwind The Chainsaw.mp3'
+'Avenged Sevenfold - Warmness On The Soul.mp3'
+'BANGGA JADI ANAK PRAMUKA ⚜⚜⚜.mp3'
+ Mp3
+'Young Lex - Titik Dua Bintang.mp3'
+ Zian_-_Untuk_Indonesiaku_Satu.mp3
+'Zigaz - Sahabat Jadi Cinta.mp3'
+root@arwanda:~/Documents/Musik# man
+What manual page do you want?
+root@arwanda:~/Documents/Musik# man man
+root@arwanda:~/Documents/Musik# 
+
+
+E-Guide-PDF
+
+root@arwanda:~/Documents/new# ls
+a  b  c  file1
+root@arwanda:~/Documents/new# mkdir penting
+root@arwanda:~/Documents/new# cat > fileBaru
+aa
+root@arwanda:~/Documents/new# ls -a
+.  ..  a  b  c  file1  fileBaru  penting
+root@arwanda:~/Documents/new# ls -al
+total 28
+drwxr-xr-x 6 root root 4096 Feb 18 05:02 .
+drwxr-xr-x 5 root root 4096 Feb 18 05:00 ..
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 a
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 b
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 c
+-rw-r--r-- 1 root root    0 Feb 18 05:01 file1
+-rw-r--r-- 1 root root    3 Feb 18 05:02 fileBaru
+drwxr-xr-x 2 root root 4096 Feb 18 05:02 penting
+root@arwanda:~/Documents/new# chmod g= file1
+root@arwanda:~/Documents/new# ls
+a  b  c  file1  fileBaru  penting
+root@arwanda:~/Documents/new# ls -al
+total 28
+drwxr-xr-x 6 root root 4096 Feb 18 05:02 .
+drwxr-xr-x 5 root root 4096 Feb 18 05:00 ..
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 a
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 b
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 c
+-rw----r-- 1 root root    0 Feb 18 05:01 file1
+-rw-r--r-- 1 root root    3 Feb 18 05:02 fileBaru
+drwxr-xr-x 2 root root 4096 Feb 18 05:02 penting
+root@arwanda:~/Documents/new# chmod u=w file1
+root@arwanda:~/Documents/new# ls -al
+total 28
+drwxr-xr-x 6 root root 4096 Feb 18 05:02 .
+drwxr-xr-x 5 root root 4096 Feb 18 05:00 ..
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 a
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 b
+drwxr-xr-x 2 root root 4096 Feb 18 05:01 c
+--w----r-- 1 root root    0 Feb 18 05:01 file1
+-rw-r--r-- 1 root root    3 Feb 18 05:02 fileBaru
+drwxr-xr-x 2 root root 4096 Feb 18 05:02 penting
+root@arwanda:~/Documents/new# pwd
+/root/Documents/new
+root@arwanda:~/Documents/new# man pwd
+root@arwanda:~/Documents/new# whoami
+root
+root@arwanda:~/Documents/new# 
+
+
+
+
+
+
