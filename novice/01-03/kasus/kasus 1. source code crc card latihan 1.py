@@ -19,5 +19,3 @@ buku2 = buku("002", "Makan dan Minum", "Isman")
 buku2.lihat_buku()
 
 print("Jumlah buku yang ada saat ini : ", buku.jumlahBuku)
-
-    
