@@ -85,11 +85,6 @@ for i in persons():
         fullAge.append(persons)
 print(fullAge)
 
-
-for p in data['people']:
-print('age: ' + p['age'])
-#gagal
-
 #11 Filter
 # Pass
 
