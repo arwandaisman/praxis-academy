@@ -73,17 +73,22 @@ ages
 
 #10 Array.prototype.filter
 persons = [
-    {"name": "Peter", "age": 16},
-    {"name": "Mark", "age": 18},
-    {"name": "John", "age": 27},
-    {"name": "Jane", "age": 14},
-    {"name": "Tony", "age": 24},
+    {'name': 'Peter', 'age': 16},
+    {'name': 'Mark', 'age': 18},
+    {'name': 'John', 'age': 27},
+    {'name': 'Jane', 'age': 14},
+    {'name': 'Tony', 'age': 24},
     ]
 fullAge = []
-for i in persons():
-    if persons[i].age >= 18:
-        fullAge.append(persons)
+for i in range(len(persons)):
+    panggil = persons[i].get("age")
+    if panggil >= 18:
+        fullAge.append(persons[i])
+#fullAge.append(persons[i].get("name")) ==> jika hanya nama saja
 print(fullAge)
+
+
+#gagal
 
 #11 Filter
 # Pass
@@ -102,15 +107,9 @@ jumlah
 
 #13 Creating Our own Higher-Order Function => belum jadi
 strArray = ['JavaScript', 'Python', 'PHP', 'Java', 'c']
-
-def mapForEach(arr,fn) :
-    newArray = []
-    for i in range(len(arr)):
-        arr = arr + 1
-        newArray.append(fn(arr[i]))
-        return newArray
-
-lenArray = mapForEach(strArray)
-return lentth
-
-lenArray
+newArray = []
+def aaa(newArray):
+    for i in range(len(strArray)):
+        newArray.append(len(strArray[i]))
+aaa(newArray)
+newArray
